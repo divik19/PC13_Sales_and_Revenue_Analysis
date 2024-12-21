@@ -24,7 +24,8 @@ As a data analyst, I was tasked with analyzing company data, including trip freq
 
 𝐋𝐢𝐧𝐤𝐬:
 
-I𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐯𝐞 𝐝𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐥𝐢𝐧𝐤: https://app.powerbi.com/view?r=eyJrIjoiMmY4MmQxNGItNzVmYS00NTA4LWI5ZWMtOGI2M2IxMWU5OThlIiwidCI6ImZlMWQ5NWE5LTRjZTEtNDFhNS04ZWFiLTZkZDQzYWEyNmQ5ZiJ9
+I𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐯𝐞 𝐝𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐥𝐢𝐧𝐤: (https://app.powerbi.com/view?r=eyJrIjoiMmY4MmQxNGItNzVmYS00NTA4LWI5ZWMtOGI2M2IxMWU5OThlIiwidCI6ImZlMWQ5NWE5LTRjZTEtNDFhNS04ZWFiLTZkZDQzYWEyNmQ5ZiJ9)
+
 𝐕𝐢𝐝𝐞𝐨 𝐩𝐫𝐞𝐬𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧: (https://drive.google.com/file/d/1gQL4MMb6sXxGFI6OoZT2OA1o6rIhJ7TU/view)
 
 
